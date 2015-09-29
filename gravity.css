@@ -539,7 +539,7 @@
 
 /*Position Styling*/
 .pr{
-	position: absolute;
+	position: relative;
 }
 .pa{
 	position: absolute;
