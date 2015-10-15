@@ -555,3 +555,37 @@
 .tl{
 	text-align: left;
 }
+/*Brand Color text*/
+.CoolBlue--Text{
+    color: #31BAFA;
+}
+.CoolGray--Text{
+    color: #8999A5;
+}
+.DeepBlue--Text{
+    color: #3A6CD8;
+}
+.DeepGray--Text{
+    color: #454958;
+}
+.SkBlack--Text{
+    color: #252525;
+}
+.SkGreen--Text{
+    color: #97CF5A;
+}
+.SkRed--Text{
+    color: #E61E25;
+}
+.SkWhite--Text{
+    color: #FFFFFF;
+}
+
+/*word Break*/
+.wb{
+    -ms-word-break: break-all;
+    word-break: break-all;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
