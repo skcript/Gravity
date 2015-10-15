@@ -582,6 +582,32 @@
     color: #FFFFFF;
 }
 
+/*Brand Color BG*/
+.CoolBlue--Bg{
+    background-color: #31BAFA;
+}
+.CoolGray--Bg{
+    background-color: #8999A5;
+}
+.DeepBlue--Bg{
+    background-color: #3A6CD8;
+}
+.DeepGray--Bg{
+    background-color: #454958;
+}
+.SkBlack--Bg{
+    background-color: #252525;
+}
+.SkGreen--Bg{
+    background-color: #97CF5A;
+}
+.SkRed--Bg{
+    background-color: #E61E25;
+}
+.SkWhite--Bg{
+    background-color: #FFFFFF;
+}
+
 /*word Break*/
 .wb{
     -ms-word-break: break-all;
