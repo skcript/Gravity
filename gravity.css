@@ -1,3 +1,15 @@
+/*!
+ * Gravity v1.2 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+/*!
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=ce88c06e64d6d3618c0d)
+ * Config saved to config.json and https://gist.github.com/ce88c06e64d6d3618c0d
+ */
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
 /*margin Style*/
 .mt0{
     margin-top: 0;
@@ -582,6 +594,12 @@
 /* vertical-align*/
 .vam{
     vertical-align: middle;
+}
+.vat{
+    vertical-align: top;
+}
+.vat{
+    vertical-align: top;
 }
 
 /* cursor*/
