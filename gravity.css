@@ -699,3 +699,11 @@
 .SkWhite--Bg{
     background-color: #FFFFFF;
 }
+
+/*selection*/
+::-moz-selection { 
+    background: #8ED2FF; 
+}
+::selection { 
+    background: #8ED2FF; 
+}
