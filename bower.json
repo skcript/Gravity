@@ -1,0 +1,25 @@
+{
+  "name": "gravity",
+  "version": "0.1.0",
+  "homepage": "http://www.skcript.com/",
+  "authors": [
+    "Karthik K <karthik@skcript.com>"
+  ],
+  "description": "Everything you would want to make your elements stick to all screens",
+  "main": "gravity.css",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css",
+    "styles"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -539,7 +539,11 @@
 
 /*Position Styling*/
 .pr{
+<<<<<<< HEAD
     position: relative;
+=======
+	position: relative;
+>>>>>>> upstream/master
 }
 .pa{
     position: absolute;
@@ -553,7 +557,11 @@
     text-align: center;
 }
 .tl{
+<<<<<<< HEAD
     text-align: left;
+=======
+	text-align: left;
+>>>>>>> upstream/master
 }
 
 /*overflow*/
@@ -612,75 +620,3 @@
     hyphens: auto;
 }
 
-/*Brand Color text*/
-.CoolBlue--Text{
-    color: #31BAFA;
-}
-.CoolGray--Text{
-    color: #8999A5;
-}
-.DeepBlue--Text{
-    color: #3A6CD8;
-}
-.SkBlue--Text{
-    color: #0099FF;
-}
-.DeepGray--Text{
-    color: #454958;
-}
-.SkBlack--Text{
-    color: #252525;
-}
-.SkGreen--Text{
-    color: #97CF5A;
-}
-.SkRed--Text{
-    color: #E61E25;
-}
-.SkWhite--Text{
-    color: #FFFFFF;
-}
-
-/*Brand Color BG*/
-.CoolBlue--Bg{
-    background-color: #31BAFA;
-}
-.CoolGray--Bg{
-    background-color: #8999A5;
-}
-.DeepBlue--Bg{
-    background-color: #3A6CD8;
-}
-.SkBlue--Bg{
-    background-color: #0099FF;
-}
-.SkyBlue--Bg{
-    background-color: #8ED2FF;
-}
-.DeepGray--Bg{
-    background-color: #454958;
-}
-.SkGray--Bg{
-    background-color:  #A8A8A8;
-}
-.CoolGray--Bg{
-    background-color:  #E4E4E4;
-}
-.SkBlack--Bg{
-    background-color: #252525;
-}
-.SkGreen--Bg{
-    background-color: #97CF5A;
-}
-.DeepGreen--Bg{
-    background-color: #51AF5B;
-}
-.SkRed--Bg{
-    background-color: #E61E25;
-}
-.CoolRed--Bg{
-    background-color: #FF7D7D;
-}
-.SkWhite--Bg{
-    background-color: #FFFFFF;
-}
