@@ -514,46 +514,54 @@
 
 /*margin auto*/
 .ma{
-	margin: auto;
+    margin: auto;
 }
 .mta{
-	margin-top: auto;
+    margin-top: auto;
 }
 .mra{
-	margin-right: auto;
+    margin-right: auto;
 }
 .mba{
-	margin-bottom: auto;
+    margin-bottom: auto;
 }
 .mla{
-	margin-left: auto;
+    margin-left: auto;
 }
 
 /*Floating Style*/
 .fr{
-	float: right;
+    float: right;
 }
 .fl{
-	float: left;
+    float: left;
 }
 
 /*Position Styling*/
 .pr{
+<<<<<<< HEAD
+    position: relative;
+=======
 	position: relative;
+>>>>>>> upstream/master
 }
 .pa{
-	position: absolute;
+    position: absolute;
 }
 
 /*text alignment styling*/
 .tr{
-	text-align: right;
+    text-align: right;
 }
 .tc{
-	text-align: center;
+    text-align: center;
 }
 .tl{
+<<<<<<< HEAD
+    text-align: left;
+=======
 	text-align: left;
+>>>>>>> upstream/master
 }
 
 /*overflow*/
@@ -612,54 +620,3 @@
     hyphens: auto;
 }
 
-/*Brand Color text*/
-.CoolBlue--Text{
-    color: #31BAFA;
-}
-.CoolGray--Text{
-    color: #8999A5;
-}
-.DeepBlue--Text{
-    color: #3A6CD8;
-}
-.DeepGray--Text{
-    color: #454958;
-}
-.SkBlack--Text{
-    color: #252525;
-}
-.SkGreen--Text{
-    color: #97CF5A;
-}
-.SkRed--Text{
-    color: #E61E25;
-}
-.SkWhite--Text{
-    color: #FFFFFF;
-}
-
-/*Brand Color BG*/
-.CoolBlue--Bg{
-    background-color: #31BAFA;
-}
-.CoolGray--Bg{
-    background-color: #8999A5;
-}
-.DeepBlue--Bg{
-    background-color: #3A6CD8;
-}
-.DeepGray--Bg{
-    background-color: #454958;
-}
-.SkBlack--Bg{
-    background-color: #252525;
-}
-.SkGreen--Bg{
-    background-color: #97CF5A;
-}
-.SkRed--Bg{
-    background-color: #E61E25;
-}
-.SkWhite--Bg{
-    background-color: #FFFFFF;
-}
