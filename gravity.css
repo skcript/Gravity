@@ -539,11 +539,7 @@
 
 /*Position Styling*/
 .pr{
-<<<<<<< HEAD
     position: relative;
-=======
-	position: relative;
->>>>>>> upstream/master
 }
 .pa{
     position: absolute;
@@ -557,11 +553,7 @@
     text-align: center;
 }
 .tl{
-<<<<<<< HEAD
     text-align: left;
-=======
-	text-align: left;
->>>>>>> upstream/master
 }
 
 /*overflow*/
