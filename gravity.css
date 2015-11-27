@@ -700,10 +700,11 @@
     background-color: #FFFFFF;
 }
 
-/*selection*/
-::-moz-selection { 
-    background: #8ED2FF; 
-}
-::selection { 
-    background: #8ED2FF; 
+/*font-smoothing*/
+body{
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+
 }
