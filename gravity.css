@@ -556,6 +556,62 @@
 	text-align: left;
 }
 
+/*overflow*/
+.oh{
+    overflow: hidden;
+}
+
+/*display*/
+.d-inline{
+    display: inline;
+}
+.d-block{
+    display:block;
+}
+.d-none{
+    display: none;
+}
+.d-flex{
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;      /* TWEENER - IE 10 */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+}
+
+/* vertical-align*/
+.vam{
+    vertical-align: middle;
+}
+
+/* cursor*/
+.cp{
+    cursor: pointer;
+}
+
+/*width*/
+.w25{
+    width: 25%
+}
+.w50{
+    width: 50%
+}
+.w75{
+    width: 75%
+}
+.w100{
+    width: 100%;
+}
+
+/*word Break*/
+.wb{
+    -ms-word-break: break-all;
+    word-break: break-all;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
 /*Brand Color text*/
 .CoolBlue--Text{
     color: #31BAFA;
@@ -606,13 +662,4 @@
 }
 .SkWhite--Bg{
     background-color: #FFFFFF;
-}
-
-/*word Break*/
-.wb{
-    -ms-word-break: break-all;
-    word-break: break-all;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
 }
