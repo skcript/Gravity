@@ -718,6 +718,13 @@
     background-color: #FFFFFF;
 }
 
+.SkWhite--Text{
+    color: #F2F2F2;
+}
+.SkWhite--Text:hover, .SkWhite--Text:focus {
+    color: #FFFFFF;
+}
+
 /*font-smoothing*/
 body{
     -ms-text-size-adjust: 100%;
