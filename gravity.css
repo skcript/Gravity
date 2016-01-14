@@ -1,14 +1,18 @@
 /*!
- * Gravity v1.2 (https://github.com/skcript/Gravity)
- * Copyright 2011-2015 SkcriptHQ.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Gravity v1.3 (https://github.com/skcript/Gravity)
+ * Copyright 2013-2016 SkcriptHQ.
+ * Licensed under MIT (https://github.com/skcript/Gravity/blob/master/LICENSE)
  */
+/*! Gravity.css v1.3 | MIT License | github.com/skcript/Gravity */
 
-/*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=ce88c06e64d6d3618c0d)
- * Config saved to config.json and https://gist.github.com/ce88c06e64d6d3618c0d
- */
-/*! Gravity.css v1.2 | MIT License | github.com/skcript/Gravity */
+/*font-smoothing*/
+body{
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+
+}
 
 /*margin Style*/
 .mt0{
@@ -725,11 +729,3 @@
     color: #FFFFFF;
 }
 
-/*font-smoothing*/
-body{
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    text-rendering: optimizeLegibility !important;
-    -webkit-font-smoothing: antialiased !important;
-
-}
