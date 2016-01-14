@@ -10,6 +10,15 @@
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+/*font-smoothing*/
+body{
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+
+}
+
 /*margin Style*/
 .mt0{
     margin-top: 0;
@@ -718,11 +727,13 @@
     background-color: #FFFFFF;
 }
 
-/*font-smoothing*/
-body{
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    text-rendering: optimizeLegibility !important;
-    -webkit-font-smoothing: antialiased !important;
 
+// Link Style
+.SkWhite--Text{
+    color: #F2F2F2;
+    .SkWhite--Text:hover, .SkWhite--Text:focus {
+        color: #FFFFFF;
+    }
 }
+
+
