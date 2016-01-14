@@ -724,8 +724,10 @@ body{
 
 .SkWhite--Text{
     color: #F2F2F2;
+    text-decoration: none;
 }
 .SkWhite--Text:hover, .SkWhite--Text:focus {
     color: #FFFFFF;
+    text-decoration: none;
 }
 
