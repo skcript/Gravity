@@ -722,6 +722,7 @@ body{
     background-color: #FFFFFF;
 }
 
+/*White link*/
 .SkWhite--Text{
     color: #F2F2F2;
     text-decoration: none;
@@ -729,5 +730,12 @@ body{
 .SkWhite--Text:hover, .SkWhite--Text:focus {
     color: #FFFFFF;
     text-decoration: none;
+}
+
+/*Text Ellipsis*/
+.tell{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 

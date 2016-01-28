@@ -734,4 +734,9 @@ body{
     }
 }
 
-
+//Text Ellipsis
+.tell{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
